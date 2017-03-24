@@ -1,0 +1,51 @@
+Student_1   B E F 15
+Student_2   B E F 15
+Student_3   B E F 15
+Student_4 A   E F 14
+Student_5 A   E F 14
+Student_6 A B E F 10
+Student_7 A B E F 10
+Student_8 A B E F 10
+Student_9   B E F 15
+Student_10 A B E F 10
+Student_11 A   E F 14
+Student_12   B E F 15
+Student_13   B E F 15
+Student_14 A B E F 10
+Student_15 A   E F 14
+Student_16 A B E F 10
+Student_17 A   E F 14
+Student_18 A B E F 10
+Student_19   B E F 15
+Student_20   B E F 15
+Student_21 C D   H 13
+Student_22 C D   H 13
+Student_23 C D G   12
+Student_24 C D G H 10
+Student_25 C D   H 13
+Student_26 C D G   12
+Student_27 C D G   12
+Student_28 C D   H 13
+Student_29 C D   H 13
+Student_30 C D   H 13
+Student_31 C D G   12
+Student_32 C D   H 13
+Student_33 C D G   12
+Student_34 C D G   12
+Student_35 C D G   12
+Student_36 C D   H 13
+Student_37 C D   H 13
+Student_38 C D G   12
+Student_39 C D   H 13
+Student_40 C D G   12
+Student_41   B G H 15
+Student_42   B G H 15
+Student_43 A   G H 14
+Student_44 A B G   12
+Student_45 A   G H 14
+Student_46 A B G H 10
+Student_47 A B G H 10
+Student_48 A   G H 14
+Student_49 A   G H 14
+Student_50 A   G H 14
+12.8
